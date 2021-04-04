@@ -1,1 +1,1 @@
-# sopa https://oscaruhp.github.io/sopa/
+# sopa https://github.com/alejandro-grisales/Sopa-de-letras
